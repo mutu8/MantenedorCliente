@@ -1,0 +1,61 @@
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

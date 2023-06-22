@@ -1,0 +1,121 @@
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCiudad.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCliente.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCiudad.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCliente.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCiudad.resources
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorCliente.resources
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Downloads\MantenedorCliente\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -1,0 +1,27 @@
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaEntidad\obj\Debug\CapaEntidad.pdb

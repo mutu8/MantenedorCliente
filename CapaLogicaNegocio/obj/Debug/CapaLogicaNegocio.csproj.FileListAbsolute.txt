@@ -1,0 +1,75 @@
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2020-2\Moanso 2020-2\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2021-0\Moanso 2021-0\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\UPN\UPN-2022-0 -\MantedorClientev3\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantClienteV3conCombo\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Documents\CURSOS PASADOS\MOANSO_2023_0\sem 8\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Downloads\MantenedorCliente\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
